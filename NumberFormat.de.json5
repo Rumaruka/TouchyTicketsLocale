@@ -1,0 +1,14 @@
+[
+    "0", // Hundert
+    "0,.00 t", // Tausend
+    "0,,.00 M", // Millionen 
+    "0,,,.00 Mr", // Milliarden
+    "0,,,,.00 B", // Billionen
+    "0,,,,,.00 Br", // Billiarden
+    "0,,,,,,.00 T", // Trillionen
+    "0,,,,,,,.00 Tr", // Trilliarden
+    "0,,,,,,,,.00 Q", // Quadrillionen
+    "0,,,,,,,,,.00 Qr", // Quadrilliarden
+    "0,,,,,,,,,,.00 Qi", // Quintillionen
+    "0,,,,,,,,,,,.00 Qir", // Quintilliarden
+]

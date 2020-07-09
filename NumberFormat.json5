@@ -1,0 +1,14 @@
+[
+    "0", // hundreds
+    "0,.00 K", // thousands
+    "0,,.00 M", // millions 
+    "0,,,.00 B", // billions
+    "0,,,,.00 T", // trillions
+    "0,,,,,.00 Q", // quadrillions
+    "0,,,,,,.00 Qi", // quintillions
+    "0,,,,,,,.00 S", // sextillions
+    "0,,,,,,,,.00 Sp", // septillions
+    "0,,,,,,,,,.00 O", // octillions
+    "0,,,,,,,,,,.00 N", // nonillions
+    "0,,,,,,,,,,,.00 D", // decillions
+]
